@@ -42,7 +42,7 @@ nav:
  gallery: "{{site.url}}/gallery/"
  about: "{{site.url}}/about/"
 
-
+   
 # Server
 destination:      	 ./_site
 port:             	 4000
