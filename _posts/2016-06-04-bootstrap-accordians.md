@@ -11,7 +11,13 @@ category: [cat03]
 comments: false
 share: false
 ---
+<style>
+.panel-body {
+color: #696969;
+font-size: 100%;
+}
 
+</style>
 
 
    
