@@ -12,7 +12,7 @@ comments: false
 share: false
 ---
 <style>
-.panel-collapse collapse {
+.panel-collapse collapse .panel-body {
 color: #696969;
 font-size: 80%;
 float: none;
