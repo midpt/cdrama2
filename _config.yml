@@ -35,9 +35,12 @@ instagram_username: midpt
     
 # Internal nav
 nav:
- writing: "source_url/writing/"
- gallery: "source_url/gallery/"
- about: "source_url/about/"
+ #writing: "source_url/writing/"
+ #gallery: "source_url/gallery/"
+ #about: "source_url/about/"
+ writing: "{{site.url}}/writing/"
+ gallery: "{{site.url}}/gallery/"
+ about: "{{site.url}}/about/"
 
 
 # Server
