@@ -15,6 +15,9 @@ share: false
 .panel-body {
 color: #696969;
 font-size: 100%;
+float: none;
+display: block;
+
 }
 
 </style>
