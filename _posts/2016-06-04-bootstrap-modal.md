@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Bootstrap Modal"
-subtitle:   "Bootstrap alerts"
+subtitle:   "Bootstrap popup"
 date:       2016-06-04 12:00:00
 author:     "midpt"
 header-img: "img/blog/header/post-bg-01.jpg"
