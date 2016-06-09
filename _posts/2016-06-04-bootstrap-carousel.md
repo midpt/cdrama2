@@ -77,3 +77,28 @@ share: false
   </div>
 </div>
 
+<hr/>
+<br/>
+<br/>
+
+
+## Image Slider
+
+<!-- slider -->
+
+	<div class="flexslider" style="display:none;">
+  <ul class="slides">
+    <li>
+      <img src="../img/slider/bg1.jpg" />
+<p class="flex-caption">Source: <a href="https://unsplash.com/">Unsplash</a></p>
+    </li>
+    <li>
+      <img src="../img/slider/bg2.jpg" />
+<p class="flex-caption">Source: <a href="https://unsplash.com/">Unsplash</a></p>
+    </li>
+    <li>
+      <img src="../img/slider/bg3.jpg" />
+<p class="flex-caption">Source: <a href="https://unsplash.com/">Unsplash</a></p>
+    </li>
+      </ul>
+</div>
