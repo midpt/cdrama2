@@ -35,7 +35,7 @@ share: false
 ## Jumbotron
 
  <div class="small-7 small-centered columns"> 
-   <div class="jumbotron">
+   <div class="jumbotron" style="background-color:#8FBC8F">
     <h4>Bootstrap Tutorial</h4>      
     <p>Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile-first projects on the web.</p>
   </div>
