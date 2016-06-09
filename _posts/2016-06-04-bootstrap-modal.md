@@ -13,8 +13,6 @@ share: false
 ---
 
 
-1.  sdklc
-{:toc}
 
    
 ## Bootstrap Modal
