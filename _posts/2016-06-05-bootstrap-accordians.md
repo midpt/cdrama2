@@ -2,11 +2,11 @@
 layout:     post
 title:      "Bootstrap Accordian"
 subtitle:   "Bootstrap accordian collapsible"
-date:       2016-06-04 12:00:00
+date:       2016-06-05 12:00:00
 author:     "midpt"
 header-img: "img/blog/header/post-bg-01.jpg"
 thumbnail: /img/blog/thumbs/thumb01.png
-tags: [bootstrap, alert]
+tags: [bootstrap, accordian]
 category: [cat03]
 comments: false
 share: false
