@@ -1,6 +1,6 @@
 ---
 layout: page
-description: "So Mad!!!"
+description: "Colourful tradition"
 title: "Writing"
 header-img: "img/writing-bg.jpg"
 ---
@@ -11,11 +11,6 @@ header-img: "img/writing-bg.jpg"
  {% assign post = site.posts.first %}
   {% assign content = post.content %}
   
-root_url={{root_url}} <br/>
-post.url={{post.url}} <br/>
-post.title={{post.title}}
-site.baseurl={{site.baseurl}}
-site.title={{site.title}}
 
 <div class="post-preview">
     
@@ -25,15 +20,15 @@ site.title={{site.title}}
 	{% endif %}
  
  
-        <h2 class="post-title">  {{ site.url }}   {{ post.title }}
+        <h2 class="post-title">  {{ }}   {{ post.title }}
         </h2>
         {% if post.subtitle %}
-        <h3 class="post-subtitle">  {{ site.url }}
+        <h3 class="post-subtitle">  {{ }}
             {{ post.subtitle }}
         </h3>
         {% endif %}
     </a>
-    <p class="post-meta">Posted by {% if post.author %}{{ site.url }}{{ post.author }}{% else %}{{ site.url }}{{ site.title }}{% endif %} on {{ site.url }}{{ post.date | date: "%B %-d, %Y" }}</p>
+    <p class="post-meta">Posted by {% if post.author %}{{  }}{{ post.author }}{% else %}{{  }}{{ site.title }}{% endif %} on {{}}{{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
  {% endfor %}
 <p>&nbsp;</p>
