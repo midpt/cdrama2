@@ -30,10 +30,10 @@ share: false
       <div class="modal-content">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal">&times;</button>
-          <h4 class="modal-title">Modal Header</h4>
+          <h4 class="modal-title" style="color:#2F4F4F">Modal Header</h4>
         </div>
-        <div class="modal-body">
-          <p>Some text in the modal.</p>
+        <div class="modal-body" >
+          <p style="color:#696969">Some text in the modal.</p>
         </div>
         <div class="modal-footer">
           <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
