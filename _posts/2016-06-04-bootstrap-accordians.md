@@ -33,7 +33,7 @@ display: block;
   
  <button data-toggle="collapse" data-target="#demo5">Collapsible</button>
 
-<div id="demo5" class="collapse">
+<div id="demo5" class="collapse" style="width: 100%; float:none; display:block;">
 A wiki is run using wiki software, otherwise known as a wiki engine. There are dozens of different wiki engines in use, both standalone and part of other software, such as bug tracking systems. Some wiki engines are open source, whereas others are proprietary. Some permit control over different functions (levels of access); for example, editing rights may permit changing, adding or removing material. Others may permit access without enforcing access control. Other rules may also be imposed to organize content. A wiki engine is a type of 
 </div>  
   
