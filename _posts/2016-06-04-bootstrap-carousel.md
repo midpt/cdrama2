@@ -11,7 +11,13 @@ category: [cat03]
 comments: false
 share: false
 ---
-
+ <style>
+  .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+  </style>
 
 
    
@@ -86,7 +92,7 @@ share: false
 
 <!-- slider -->
 
-	<div class="flexslider" style="display:none;">
+<div class="flexslider" style="display:none;">
   <ul class="slides">
     <li>
       <img src="../img/slider/bg1.jpg" />
@@ -100,5 +106,5 @@ share: false
       <img src="../img/slider/bg3.jpg" />
 <p class="flex-caption">Source: <a href="https://unsplash.com/">Unsplash</a></p>
     </li>
-      </ul>
+  </ul>
 </div>
