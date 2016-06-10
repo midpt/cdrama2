@@ -91,6 +91,27 @@ share: false
 ## Image Slider
 
 <!-- slider -->
+      <section class="slider">
+        <div class="flexslider">
+          <ul class="slides">
+            <li>
+  	    	    <img src="{{site.url}}/img/slider/bg1.jpg" />
+  	    		</li>
+  	    		<li>
+  	    	    <img src="{{site.url}}/img/slider/bg2.jpg" />
+  	    		</li>
+  	    		<li>
+  	    	    <img src="{{site.url}}/img/slider/bg3.jpg" />
+  	    		</li>
+  	    		<li>
+  	    	    <img src="{{site.url}}/img/home-bg.jpg" alt="slide 4" />
+  	    		</li>
+          </ul>
+        </div>
+      </section>
+
+
+
 
 <div class="flexslider" >
   <ul class="slides">
