@@ -95,7 +95,7 @@ share: false
 <div class="flexslider" >
   <ul class="slides">
     <li>
-      <img src="../img/slider/bg1.jpg" />
+      <img src="{{site.url}}/img/slider/bg1.jpg" />
 <p class="flex-caption">Source: <a href="https://unsplash.com/">Unsplash</a></p>
     </li>
     <li>
