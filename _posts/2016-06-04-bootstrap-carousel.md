@@ -29,7 +29,8 @@ share: false
 ## Image Slider
 
 <!-- slider -->
-  <div id="container" class="cf">
+	<div id="main" role="main">
+      <section class="slider">
         <div class="flexslider">
           <ul class="slides">
             <li>
@@ -46,6 +47,7 @@ share: false
   	    		</li>
           </ul>
         </div>
+		</section>
 </div>
  
 
