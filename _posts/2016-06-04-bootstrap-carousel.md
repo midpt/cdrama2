@@ -38,7 +38,7 @@ share: false
     <div class="carousel-inner" role="listbox">
 
       <div class="item active">
-        <img src="http://www.w3schools.com/bootstrap/img_chania.jpg" alt="slide 1" />
+        <img src="{{site.url}}/img/slider/bg1.jpg" alt="slide 1" />
         <div class="carousel-caption">
           <h3>Chania</h3>
           <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
@@ -46,7 +46,7 @@ share: false
       </div>
 
       <div class="item">
-        <img src="http://www.w3schools.com/bootstrap/img_chania2.jpg" alt="slide 2" />
+        <img src="{{site.url}}/img/slider/bg2.jpg"alt="slide 2" />
         <div class="carousel-caption">
           <h3>Chania</h3>
           <p>The atmosphere in Chania has a touch of Florence and Venice.</p>
@@ -54,7 +54,7 @@ share: false
       </div>
     
       <div class="item">
-        <img src="http://www.w3schools.com/bootstrap/img_flower.jpg" alt="slide 3" />
+        <img src="{{site.url}}/img/slider/bg3.jpg" alt="slide 3" />
         <div class="carousel-caption">
           <h3>Flowers</h3>
           <p>Beatiful flowers in Kolymbari, Crete.</p>
@@ -62,7 +62,7 @@ share: false
       </div>
 
       <div class="item">
-        <img src="http://www.w3schools.com/bootstrap/img_flower2.jpg" alt="slide 4" />
+        <img src="{{site.url}}/img/home-bg.jpg" alt="slide 4" />
         <div class="carousel-caption">
           <h3>Flowers</h3>
           <p>Beatiful flowers in Kolymbari, Crete.</p>
