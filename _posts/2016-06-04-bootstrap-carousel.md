@@ -91,7 +91,7 @@ share: false
 ## Image Slider
 
 <!-- slider -->
-      <section class="slider">
+
         <div class="flexslider">
           <ul class="slides">
             <li>
@@ -108,24 +108,7 @@ share: false
   	    		</li>
           </ul>
         </div>
-      </section>
 
 
 
 
-<div class="flexslider" >
-  <ul class="slides">
-    <li>
-      <img src="{{site.url}}/img/slider/bg1.jpg" />
-<p class="flex-caption">Source: <a href="https://unsplash.com/">Unsplash</a></p>
-    </li>
-    <li>
-      <img src="{{site.url}}/img/slider/bg2.jpg" />
-<p class="flex-caption">Source: <a href="https://unsplash.com/">Unsplash</a></p>
-    </li>
-    <li>
-      <img src="{{site.url}}/img/slider/bg3.jpg" />
-<p class="flex-caption">Source: <a href="https://unsplash.com/">Unsplash</a></p>
-    </li>
-  </ul>
-</div>
