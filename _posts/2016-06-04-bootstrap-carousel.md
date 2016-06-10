@@ -92,7 +92,7 @@ share: false
 
 <!-- slider -->
 
-<div class="flexslider" style="display:none;">
+<div class="flexslider" >
   <ul class="slides">
     <li>
       <img src="../img/slider/bg1.jpg" />
