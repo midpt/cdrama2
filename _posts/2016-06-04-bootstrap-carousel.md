@@ -99,11 +99,11 @@ share: false
 <p class="flex-caption">Source: <a href="https://unsplash.com/">Unsplash</a></p>
     </li>
     <li>
-      <img src="../img/slider/bg2.jpg" />
+      <img src="{{site.url}}/img/slider/bg2.jpg" />
 <p class="flex-caption">Source: <a href="https://unsplash.com/">Unsplash</a></p>
     </li>
     <li>
-      <img src="../img/slider/bg3.jpg" />
+      <img src="{{site.url}}/img/slider/bg3.jpg" />
 <p class="flex-caption">Source: <a href="https://unsplash.com/">Unsplash</a></p>
     </li>
   </ul>
