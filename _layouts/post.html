@@ -20,7 +20,7 @@ layout: default
 
   <!-- flexslider -->
 <link href="{{ site.url }}/css/flexslider.css" rel="stylesheet" />
-<link href="{{ site.url }}/css/demo.css" rel="stylesheet" />
+<!-- <link href="{{ site.url }}/css/demo.css" rel="stylesheet" /> -->
 
 
 
@@ -118,6 +118,21 @@ layout: default
 
   <!-- FlexSlider -->
   <script defer src="../jquery.flexslider.js"></script>
+  
+   <script type="text/javascript">
+    $(function(){
+     // SyntaxHighlighter.all();
+    });
+    $(window).load(function(){
+      $('.flexslider').flexslider({
+        animation: "slide",
+        start: function(slider){
+          $('body').removeClass('loading');
+        }
+      });
+    });
+  </script>
+  
 
    <!-- Optional FlexSlider Additions -->
   <!-- <script src="{{site.url}}/js/jquery.easing.js"></script> -->
