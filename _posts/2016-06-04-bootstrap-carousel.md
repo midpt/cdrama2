@@ -28,7 +28,7 @@ share: false
 
 <!-- slider -->
 
-      <section class="slider">
+      <div class="slider">
         <div class="flexslider">
           <ul class="slides">
             <li>
@@ -45,7 +45,7 @@ share: false
   	    		</li>
           </ul>
         </div>
-    </section>
+    </div>
 
  
 
