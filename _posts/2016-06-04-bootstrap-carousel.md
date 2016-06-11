@@ -11,13 +11,6 @@ category: [cat03]
 comments: false
 share: false
 ---
- <style>
-  .carousel-inner > .item > img,
-  .carousel-inner > .item > a > img {
-      width: 70%;
-      margin: auto;
-  }
-  </style>
 
 
    
@@ -26,12 +19,11 @@ share: false
 
 ## Image Slider
 
-<!-- slider -->
 
       <div class="slider">
         <div class="flexslider">
           <ul class="slides">
-            <li>
+				<li>
   	    	    <img src="{{site.url}}/img/slider/bg1.jpg" />
   	    		</li>
   	    		<li>
