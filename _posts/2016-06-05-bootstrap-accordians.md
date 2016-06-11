@@ -37,7 +37,7 @@ share: false
           <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">Collapsible Group 1</a>
         </h4>
       </div>
-      <div id="collapse1" class="collapse" style="width: 100%; float:none; color: #696969; font-size:60%">
+      <div id="collapse1" class="collapse" style="width: 100%; float:none; color: #696969; font-size:100%">
         <div >A wiki is run using wiki software, otherwise known as a wiki engine. There are dozens of different wiki engines in use, both standalone and part of other software, such as bug tracking systems. Some wiki engines are open source, whereas others are proprietary. Some permit control over different functions (levels of access); for example, editing rights may permit changing, adding or removing material. Others may permit access without enforcing access control. Other rules may also be imposed to organize content. A wiki engine is a type of 
 		</div>
       </div>
@@ -48,7 +48,7 @@ share: false
           <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">Collapsible Group 2</a>
         </h4>
       </div>
-      <div id="collapse2" class="collapse" style="width: 100%; float:none; color: #696969; font-size:60%">
+      <div id="collapse2" class="collapse" style="width: 100%; float:none; color: #696969; font-size:100%">
         <div >A wiki is run using wiki software, otherwise known as a wiki engine. There are dozens of different wiki engines in use, both standalone and part of other software, such as bug tracking systems. Some wiki engines are open source, whereas others are proprietary. Some permit control over different functions (levels of access); for example, editing rights may permit changing, adding or removing material. Others may permit access without enforcing access control. Other rules may also be imposed to organize content. A wiki engine is a type of 
 		</div>
       </div>
@@ -59,7 +59,7 @@ share: false
           <a data-toggle="collapse" data-parent="#accordion" href="#collapse3">Collapsible Group 3</a>
         </h4>
       </div>
-      <div id="collapse3" class="collapse" style="width: 100%; float:none; color: #696969; font-size:60%">
+      <div id="collapse3" class="collapse" style="width: 100%; float:none; color: #696969; font-size:100%">
         <div >A wiki is run using wiki software, otherwise known as a wiki engine. There are dozens of different wiki engines in use, both standalone and part of other software, such as bug tracking systems. Some wiki engines are open source, whereas others are proprietary. Some permit control over different functions (levels of access); for example, editing rights may permit changing, adding or removing material. Others may permit access without enforcing access control. Other rules may also be imposed to organize content. A wiki engine is a type of 
 		</div>
       </div>
