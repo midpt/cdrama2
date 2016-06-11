@@ -24,13 +24,11 @@ share: false
 ## Bootstrap Carousel
 
 
-  
-
 ## Image Slider
 
 <!-- slider -->
 	<div id="main" role="main">
-      <section class="slider">
+
         <div class="flexslider">
           <ul class="slides">
             <li>
@@ -47,8 +45,8 @@ share: false
   	    		</li>
           </ul>
         </div>
-		</section>
-</div>
+
+	</div>
  
 
 
